@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+pymupdf
+keybert
+rouge-score
+evaluate
+scikit-learn
+pandas
+numpy
+matplotlib
